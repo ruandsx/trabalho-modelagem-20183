@@ -1,0 +1,23 @@
+fields:
+    nome:
+        label: Nome
+        span: left
+        type: text
+    valor:
+        label: Valor
+        span: auto
+        type: number
+    quantidade:
+        label: Quantidade
+        span: auto
+        type: number
+    medidas:
+        label: Medida
+        nameFrom: abreviacao
+        descriptionFrom: description
+        span: auto
+        type: relation
+    descricao:
+        label: Descrição
+        span: full
+        type: text

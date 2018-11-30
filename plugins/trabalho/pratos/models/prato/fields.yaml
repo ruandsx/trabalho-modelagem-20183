@@ -1,0 +1,44 @@
+fields:
+    nome:
+        label: Nome
+        span: auto
+        type: text
+    descricao:
+        label: Descrição
+        span: auto
+        type: text
+    valor:
+        label: Valor
+        span: full
+        type: number
+    ingredientes:
+        label: Ingredientes
+        prompt: 'Acrescentar novo item'
+        span: auto
+        type: repeater
+        form:
+            fields:
+                ingrediente:
+                    label: 'Ingrediente - selecionar um ingrediente por vez'
+                    nameFrom: nome
+                    descriptionFrom: description
+                    span: auto
+                    type: relation
+                quantidade:
+                    label: Quantidade
+                    span: auto
+                    type: number
+    foto:
+        label: 'Foto do Prato'
+        mode: image
+        useCaption: true
+        thumbOptions:
+            mode: crop
+            extension: auto
+        span: right
+        type: fileupload
+    modo_preparo:
+        label: 'Modo Preparo'
+        size: large
+        span: auto
+        type: textarea

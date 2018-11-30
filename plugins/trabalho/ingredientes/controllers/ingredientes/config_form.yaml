@@ -1,0 +1,10 @@
+name: Ingredientes
+form: $/trabalho/ingredientes/models/ingrediente/fields.yaml
+modelClass: Trabalho\Ingredientes\Models\Ingrediente
+defaultRedirect: trabalho/ingredientes/ingredientes
+create:
+    redirect: 'trabalho/ingredientes/ingredientes/update/:id'
+    redirectClose: trabalho/ingredientes/ingredientes
+update:
+    redirect: trabalho/ingredientes/ingredientes
+    redirectClose: trabalho/ingredientes/ingredientes

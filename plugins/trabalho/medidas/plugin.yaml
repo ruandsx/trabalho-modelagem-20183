@@ -1,0 +1,17 @@
+plugin:
+    name: 'trabalho.medidas::lang.plugin.name'
+    description: 'trabalho.medidas::lang.plugin.description'
+    author: trabalho
+    icon: oc-icon-arrows-alt
+    homepage: ''
+navigation:
+    main-menu-item:
+        label: Medidas
+        url: trabalho/medidas/medidas
+        icon: icon-arrows-alt
+        permissions:
+            - medidas
+permissions:
+    medidas:
+        tab: 'trabalho.medidas::lang.plugin.name'
+        label: 'trabalho.medidas::lang.plugin.name'

@@ -1,0 +1,10 @@
+name: Medidas
+form: $/trabalho/medidas/models/medida/fields.yaml
+modelClass: Trabalho\Medidas\Models\Medida
+defaultRedirect: trabalho/medidas/medidas
+create:
+    redirect: 'trabalho/medidas/medidas/update/:id'
+    redirectClose: trabalho/medidas/medidas
+update:
+    redirect: trabalho/medidas/medidas
+    redirectClose: trabalho/medidas/medidas

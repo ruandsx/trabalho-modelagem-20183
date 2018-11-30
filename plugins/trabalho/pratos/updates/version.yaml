@@ -1,0 +1,29 @@
+1.0.1:
+    - 'Initialize plugin.'
+1.0.2:
+    - 'Created table trabalho_pratos_'
+    - builder_table_create_trabalho_pratos_.php
+1.0.3:
+    - 'Created table trabalho_pratos_pratos_ingredientes'
+    - builder_table_create_trabalho_pratos_pratos_ingredientes.php
+1.0.4:
+    - 'Updated table trabalho_pratos_'
+    - builder_table_update_trabalho_pratos_.php
+1.0.5:
+    - 'Updated table trabalho_pratos_'
+    - builder_table_update_trabalho_pratos__2.php
+1.0.6:
+    - 'Updated table trabalho_pratos_'
+    - builder_table_update_trabalho_pratos__3.php
+1.0.7:
+    - 'Updated table trabalho_pratos_'
+    - builder_table_update_trabalho_pratos__4.php
+1.0.8:
+    - 'Updated table trabalho_pratos_'
+    - builder_table_update_trabalho_pratos__5.php
+1.0.9:
+    - 'Updated table trabalho_pratos_'
+    - builder_table_update_trabalho_pratos__6.php
+1.0.10:
+    - 'Updated table trabalho_pratos_'
+    - builder_table_update_trabalho_pratos__7.php

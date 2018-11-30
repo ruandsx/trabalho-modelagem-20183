@@ -1,0 +1,4 @@
+title: Medidas
+modelClass: Trabalho\Medidas\Models\Medida
+toolbar:
+    buttons: reorder_toolbar

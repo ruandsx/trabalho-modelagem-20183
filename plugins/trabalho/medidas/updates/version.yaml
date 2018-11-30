@@ -1,0 +1,11 @@
+1.0.1:
+    - 'Initialize plugin.'
+1.0.2:
+    - 'Created table trabalho_medidas_'
+    - builder_table_create_trabalho_medidas_.php
+1.0.3:
+    - 'Updated table trabalho_medidas_'
+    - builder_table_update_trabalho_medidas_.php
+1.0.4:
+    - 'Updated table trabalho_medidas_'
+    - builder_table_update_trabalho_medidas__2.php

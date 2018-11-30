@@ -1,0 +1,12 @@
+fields:
+    dia:
+        label: Dia
+        mode: date
+        span: left
+        type: datepicker
+    pratos:
+        label: 'Pratos do Dia'
+        nameFrom: nome
+        descriptionFrom: description
+        span: full
+        type: relation

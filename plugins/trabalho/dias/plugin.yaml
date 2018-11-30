@@ -1,0 +1,17 @@
+plugin:
+    name: 'trabalho.dias::lang.plugin.name'
+    description: 'trabalho.dias::lang.plugin.description'
+    author: trabalho
+    icon: oc-icon-calendar
+    homepage: ''
+navigation:
+    main-menu-item:
+        label: Cardápio
+        url: trabalho/dias/dias
+        icon: icon-calendar
+        permissions:
+            - dias
+permissions:
+    dias:
+        tab: 'trabalho.dias::lang.plugin.name'
+        label: 'trabalho.dias::lang.plugin.description'

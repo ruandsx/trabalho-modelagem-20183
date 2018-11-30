@@ -1,0 +1,11 @@
+columns:
+    id:
+        label: id
+        type: number
+        searchable: true
+    nome:
+        label: nome
+        type: text
+    abreviacao:
+        label: abreviacao
+        type: text

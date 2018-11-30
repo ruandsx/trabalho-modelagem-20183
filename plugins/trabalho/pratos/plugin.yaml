@@ -1,0 +1,17 @@
+plugin:
+    name: 'trabalho.pratos::lang.plugin.name'
+    description: 'trabalho.pratos::lang.plugin.description'
+    author: trabalho
+    icon: oc-icon-database
+    homepage: ''
+navigation:
+    main-menu-item:
+        label: Pratos
+        url: trabalho/pratos/pratos
+        icon: icon-database
+        permissions:
+            - pratos
+permissions:
+    pratos:
+        tab: 'trabalho.pratos::lang.plugin.name'
+        label: 'trabalho.pratos::lang.plugin.name'

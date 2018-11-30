@@ -1,0 +1,17 @@
+plugin:
+    name: 'trabalho.ingredientes::lang.plugin.name'
+    description: 'trabalho.ingredientes::lang.plugin.description'
+    author: trabalho
+    icon: oc-icon-birthday-cake
+    homepage: ''
+navigation:
+    main-menu-item:
+        label: Ingredientes
+        url: trabalho/ingredientes/ingredientes
+        icon: icon-birthday-cake
+        permissions:
+            - ingredientes
+permissions:
+    ingredientes:
+        tab: 'trabalho.ingredientes::lang.plugin.name'
+        label: 'trabalho.ingredientes::lang.plugin.name'

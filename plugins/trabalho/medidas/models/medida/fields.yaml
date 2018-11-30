@@ -1,0 +1,11 @@
+fields:
+    nome:
+        label: 'Nome da Medida'
+        span: auto
+        type: text
+        comment: 'EX: Grama, Unidade, Quilos'
+    abreviacao:
+        label: Abreviação
+        span: auto
+        type: text
+        comment: 'EX: Kg/L, L, g, ml'

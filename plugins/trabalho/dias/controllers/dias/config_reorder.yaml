@@ -1,0 +1,4 @@
+title: Dias
+modelClass: Trabalho\Dias\Models\Dia
+toolbar:
+    buttons: reorder_toolbar

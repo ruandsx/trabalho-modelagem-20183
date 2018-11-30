@@ -1,0 +1,20 @@
+columns:
+    id:
+        label: id
+        type: number
+        searchable: true
+    nome:
+        label: nome
+        type: text
+    quantidade:
+        label: quantidade
+        type: number
+    descricao:
+        label: descricao
+        type: text
+    valor:
+        label: valor
+        type: number
+    medidas_id:
+        label: medidas_id
+        type: number

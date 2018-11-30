@@ -1,0 +1,10 @@
+name: Pratos
+form: $/trabalho/pratos/models/prato/fields.yaml
+modelClass: Trabalho\Pratos\Models\Prato
+defaultRedirect: trabalho/pratos/pratos
+create:
+    redirect: 'trabalho/pratos/pratos/update/:id'
+    redirectClose: trabalho/pratos/pratos
+update:
+    redirect: trabalho/pratos/pratos
+    redirectClose: trabalho/pratos/pratos

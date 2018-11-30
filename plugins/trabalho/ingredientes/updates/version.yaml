@@ -1,0 +1,41 @@
+1.0.1:
+    - 'Initialize plugin.'
+1.0.2:
+    - 'Created table trabalho_ingredientes_'
+    - builder_table_create_trabalho_ingredientes_.php
+1.0.3:
+    - 'Updated table trabalho_ingredientes_'
+    - builder_table_update_trabalho_ingredientes_.php
+1.0.4:
+    - 'Created table trabalho_ingredientes_medidas'
+    - builder_table_create_trabalho_ingredientes_medidas.php
+1.0.5:
+    - 'Updated table trabalho_ingredientes_medidas'
+    - builder_table_update_trabalho_ingredientes_medidas.php
+1.0.6:
+    - 'Created table trabalho_ingredientes_ingredientes_medidas'
+    - builder_table_create_trabalho_ingredientes_ingredientes_medidas.php
+1.0.7:
+    - 'Updated table trabalho_ingredientes_'
+    - builder_table_update_trabalho_ingredientes__2.php
+1.0.8:
+    - 'Updated table trabalho_ingredientes_ingredientes_medidas'
+    - builder_table_update_trabalho_ingredientes_ingredientes_medidas.php
+1.0.9:
+    - 'Updated table trabalho_ingredientes_'
+    - builder_table_update_trabalho_ingredientes__3.php
+1.0.10:
+    - 'Updated table trabalho_ingredientes_'
+    - builder_table_update_trabalho_ingredientes__4.php
+1.0.11:
+    - 'Updated table trabalho_ingredientes_'
+    - builder_table_update_trabalho_ingredientes__5.php
+1.0.12:
+    - 'Drop table trabalho_ingredientes_ingredientes_medidas'
+    - builder_table_delete_trabalho_ingredientes_ingredientes_medidas.php
+1.0.13:
+    - 'Drop table trabalho_ingredientes_medidas'
+    - builder_table_delete_trabalho_ingredientes_medidas.php
+1.0.14:
+    - 'Updated table trabalho_ingredientes_'
+    - builder_table_update_trabalho_ingredientes__6.php

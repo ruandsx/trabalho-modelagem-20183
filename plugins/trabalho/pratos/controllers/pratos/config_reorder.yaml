@@ -1,0 +1,4 @@
+title: Pratos
+modelClass: Trabalho\Pratos\Models\Prato
+toolbar:
+    buttons: reorder_toolbar

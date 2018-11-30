@@ -1,0 +1,4 @@
+title: Ingredientes
+modelClass: Trabalho\Ingredientes\Models\Ingrediente
+toolbar:
+    buttons: reorder_toolbar

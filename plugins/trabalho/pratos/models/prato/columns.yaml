@@ -1,0 +1,14 @@
+columns:
+    id:
+        label: id
+        type: number
+        searchable: true
+    nome:
+        label: nome
+        type: text
+    descricao:
+        label: descricao
+        type: text
+    valor:
+        label: valor
+        type: number

@@ -1,0 +1,10 @@
+name: Dias
+form: $/trabalho/dias/models/dia/fields.yaml
+modelClass: Trabalho\Dias\Models\Dia
+defaultRedirect: trabalho/dias/dias
+create:
+    redirect: 'trabalho/dias/dias/update/:id'
+    redirectClose: trabalho/dias/dias
+update:
+    redirect: trabalho/dias/dias
+    redirectClose: trabalho/dias/dias
